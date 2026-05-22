@@ -1,0 +1,6 @@
+{
+  "name": "Workout Militaire",
+  "description": "Application de workout militaire optimisée pour mobile avec sélection de niveau, programmation par semaine, minuteur et animations d'exercices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
